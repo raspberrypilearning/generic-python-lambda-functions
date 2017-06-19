@@ -1,5 +1,3 @@
-### Lambda Functions in Python
-
 Lambda expressions are a simple single line method of creating functions in Python. Although not essential in your programming, lambda expressions can be very useful at times. They become particularly useful when you want to use a function as an argument in another function.
 
 Here's a simple example. Imagine you wanted to create a function that took a number and added 1 to it. You could write the following:
