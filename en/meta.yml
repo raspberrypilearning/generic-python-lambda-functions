@@ -1,0 +1,14 @@
+title: Python lambda expressions
+hero_image: images/banner.png
+description: Using Python lambda expressions to create functions
+original_url:
+theme: cc-prototype
+duration: 1
+ingredient: true
+listed: false
+copyedit: true
+interests:
+technologies: "python"
+steps:
+  - title: Lambda expression
+
