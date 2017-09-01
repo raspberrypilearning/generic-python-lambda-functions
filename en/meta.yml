@@ -1,6 +1,6 @@
-title: Python Lambda Functions
+title: Python lambda expressions
 hero_image: images/banner.png
-description: Using Python's lambda function
+description: Using Python lambda expressions to create functions
 original_url:
 theme: cc-prototype
 duration: 1
@@ -10,5 +10,5 @@ copyedit: true
 interests:
 technologies: "python"
 steps:
-  - title: lambda functions
+  - title: Lambda expression
 
